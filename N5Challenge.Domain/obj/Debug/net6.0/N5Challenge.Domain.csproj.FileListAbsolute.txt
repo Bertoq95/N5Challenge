@@ -1,0 +1,12 @@
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\bin\Debug\net6.0\N5Challenge.Domain.deps.json
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\bin\Debug\net6.0\N5Challenge.Domain.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\bin\Debug\net6.0\N5Challenge.Domain.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\N5Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\N5Challenge.Domain.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\N5Challenge.Domain.AssemblyInfo.cs
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\N5Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\N5Challenge.Domain.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\refint\N5Challenge.Domain.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\N5Challenge.Domain.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\ref\N5Challenge.Domain.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Domain\obj\Debug\net6.0\N5Challenge.Domain.csproj.AssemblyReference.cache

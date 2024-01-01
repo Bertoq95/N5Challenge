@@ -1,0 +1,17 @@
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\bin\Debug\net6.0\N5Challenge.Application.deps.json
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\bin\Debug\net6.0\N5Challenge.Application.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\bin\Debug\net6.0\N5Challenge.Application.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\bin\Debug\net6.0\N5Challenge.Domain.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\bin\Debug\net6.0\N5Challenge.Infrastructure.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\bin\Debug\net6.0\N5Challenge.Domain.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\bin\Debug\net6.0\N5Challenge.Infrastructure.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.csproj.AssemblyReference.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.AssemblyInfo.cs
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.csproj.CopyComplete
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\refint\N5Challenge.Application.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\N5Challenge.Application.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Application\obj\Debug\net6.0\ref\N5Challenge.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\bin\Debug\net6.0\N5Challenge.Infrastructure.deps.json
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\bin\Debug\net6.0\N5Challenge.Infrastructure.runtimeconfig.json
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\bin\Debug\net6.0\N5Challenge.Infrastructure.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\bin\Debug\net6.0\N5Challenge.Infrastructure.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\bin\Debug\net6.0\N5Challenge.Domain.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\bin\Debug\net6.0\N5Challenge.Domain.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.AssemblyInfo.cs
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.csproj.CopyComplete
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\refint\N5Challenge.Infrastructure.dll
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.pdb
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\N5Challenge.Infrastructure.genruntimeconfig.cache
+C:\Users\CFO Tech\Documents\repo\N5Challenge\N5Challenge.Infrastructure\obj\Debug\net6.0\ref\N5Challenge.Infrastructure.dll
